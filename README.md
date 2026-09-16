@@ -1,0 +1,2 @@
+# assets-nggent
+static assets
